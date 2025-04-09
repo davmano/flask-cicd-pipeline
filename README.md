@@ -43,3 +43,7 @@ This project is available as a pre-built Docker image on Docker Hub.
 ```bash
 docker pull davmano/flask-cicd-toolbox
 docker run -p 5000:5000 davmano/flask-cicd-toolbox
+
+# 🧰 Flask CI/CD Pipeline – DevOps Toolbox API
+
+![Build Status](https://github.com/davmano/flask-cicd-pipeline/actions/workflows/ci-cd.yml/badge.svg)
