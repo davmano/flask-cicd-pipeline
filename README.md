@@ -33,6 +33,7 @@ A lightweight Flask API built to showcase CI/CD skills, RESTful API development,
 ```bash
 git clone https://github.com/davmano/flask-cicd-pipeline.git
 cd flask-cicd-pipeline
+```
 
 ## 🐳 Docker Image
 
@@ -43,6 +44,7 @@ This project is available as a pre-built Docker image on Docker Hub.
 ```bash
 docker pull davmano/flask-cicd-toolbox
 docker run -p 5000:5000 davmano/flask-cicd-toolbox
+```
 
 # 🧰 Flask CI/CD Pipeline – DevOps Toolbox API
 
